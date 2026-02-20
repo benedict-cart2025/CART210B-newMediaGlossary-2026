@@ -10,9 +10,9 @@ With Zylinska's research and work, she has raised awareness and brought up tips 
 
 
 
-[Zylinska , Joanna. Nonhuman Photography. Cambridge , Massachusetts : The MIT Press, 2017. 
+[^zylinska17non] Zylinska , Joanna. Nonhuman Photography. Cambridge , Massachusetts : The MIT Press, 2017. 
 
-Zylinska , Joanna. AI Art: Machine Visions and Warped Dreams. Open Press Humanities CIC, 2020. 
+[^zylinska20ai] Zylinska , Joanna. AI Art: Machine Visions and Warped Dreams. Open Press Humanities CIC, 2020. 
 
 
-Pullen, Bob. 2008. “Photography and Censorship: The Photographs and Ideals of Jean Straker.” Photography and Culture 1 (2): 227–38. doi:10.2752/175145208X373789.
+[^pullen08photo] Pullen, Bob. 2008. “Photography and Censorship: The Photographs and Ideals of Jean Straker.” Photography and Culture 1 (2): 227–38. doi:10.2752/175145208X373789.
