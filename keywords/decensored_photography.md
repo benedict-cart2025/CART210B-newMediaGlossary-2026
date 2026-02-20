@@ -7,7 +7,10 @@ In addition to that concept, Zylinska also stresses the dangers that surveillanc
 With Zylinska's research and work, she has raised awareness and brought up tips of decensored photography, how it's possible for everyday folks to take pictures without government interference. She brings up how important it is for folks to participate in this practice in order to prevent authoritarianism from expanding in our society.
 
 
-Zylinska , Joanna. Nonhuman Photography. Cambridge , Massachusetts : The MIT Press, 2017. 
+
+
+
+[Zylinska , Joanna. Nonhuman Photography. Cambridge , Massachusetts : The MIT Press, 2017. 
 
 Zylinska , Joanna. AI Art: Machine Visions and Warped Dreams. Open Press Humanities CIC, 2020. 
 
